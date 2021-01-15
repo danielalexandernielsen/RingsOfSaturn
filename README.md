@@ -13,7 +13,7 @@ ENTER = Press menu item<br>
 Use mouse or trackpad to aim.
 
 ## [Day 6 - GIF ]
-<img src="https://github.com/danielalexandernielsen/Yrgo/blob/master/Daniel_00_SideProjects/GIF/RingsOfSaturn.gif?raw=true">
+<img src="https://github.com/danielalexandernielsen/Yrgo/blob/master/Programming%20Fundamentals/Daniel_00_SideProjects/GIF/RingsOfSaturn.gif">
 
 ## [Day 5 - Screenshot]
 <img src="https://i.imgur.com/K4zjdue.png">
